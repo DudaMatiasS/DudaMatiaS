@@ -1,7 +1,7 @@
 ## Olá eu me chamo Maria Eduarda, mas pode me chamar de Duda😊
 * 📚 Sou estudante de Sistemas de Informação no IFMG campus Sabará
 * 🖥️ Eu sempre tive o interesse em estudar na área de TI
-* 👩‍💻 No momento estou focada em aprimorar meus conhecimentos em JAVA, HTML e CSS
+* 👩‍💻 No momento estou focada em me tornar uma desenvolvedora Full Stack
 * 🏃‍♀️ Sou uma amante de esportes como o vôlei e o futebol e também adoro competir
 <p>Essas são as linguagens que eu tenho conhecimento:</p>
 <div style="display: inline_block">
