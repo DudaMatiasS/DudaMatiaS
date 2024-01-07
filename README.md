@@ -13,11 +13,11 @@
 </div>
 
 ##
-<div>
+ <!--<div>
   <a href="https://github.com/DudaMatiasS"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DudaMatiaS&show_icons=true&theme=tokyonight">
-  <!--<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaMatiaS&hide_progress=true&theme=tokyonight"> -->
-</div>
+  <!--<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaMatiaS&hide_progress=true&theme=tokyonight"> 
+</div>-->
 
 ## Informações para contato
 <div>
