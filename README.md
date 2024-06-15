@@ -3,7 +3,7 @@
 * 👩‍💻 Eu sempre tive o interesse em aprofundar meus conhecimentos na área de TI
 * 🏃‍♀️ Sou uma amante de esportes como o vôlei e o futebol e também adoro competir
 <p>Essas são as tecnologias que mais utilizo:</p>
-<div style="display: inline_block">\
+<div style="display: inline_block">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
