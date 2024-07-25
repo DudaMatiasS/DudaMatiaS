@@ -10,11 +10,10 @@
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- <!--<div>
-  <a href="https://github.com/DudaMatiasS"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DudaMatiaS&show_icons=true&theme=tokyonight">
-  <!--<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaMatiaS&hide_progress=true&theme=tokyonight"> 
-</div>-->
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DudaMatiasS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DudaMatiasS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## Informações para contato
 <div>
